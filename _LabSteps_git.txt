@@ -1,6 +1,6 @@
 # Git Lab
 
-
+checked
 
 
 1.  設定與檢視 Git 設定值
